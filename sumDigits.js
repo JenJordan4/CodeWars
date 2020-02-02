@@ -16,3 +16,5 @@ function sumDigits(number) {
   }
   return total
 }
+
+sumDigits(99);
